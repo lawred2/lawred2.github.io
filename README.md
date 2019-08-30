@@ -1,4 +1,2 @@
 # davidlawrence.eu
-Blog Site
-
-I am currently updating my github hosted blogsite through CF
+This is my github hosted Cloudflare served blog site
