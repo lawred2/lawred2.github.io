@@ -1,4 +1,6 @@
-# davidlawrence.eu
-Blog Site
+---
+title: This is my title
+layout: post
+---
 
-I am currently updating my github hosted blogsite through CF
+Here is my page.
