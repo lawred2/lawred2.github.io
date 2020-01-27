@@ -3,11 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
-
+name: Dave Lawrence
+title: Senior Software Engineer
+email: info@davidlawrence.eu
+website: www.davidlawrence.eu
 # Social links
 twitter_username: facespics
 github_username:  sproogen
