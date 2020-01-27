@@ -3,24 +3,24 @@
   dates: 2006 - 2008
   qualification: MSc Software and Information Systems
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Student population makes up 20% of Galway's population and the university ranks in the top 1% worldwide...
   description: | # this will include new lines to allow paragraphs
-    I love it
+    Platform development and information systems were at the heart of this Masters
 
 - layout: left
   name: University College Cork
   dates: 2003 - 2004
   qualification: HDip in Software Engineering
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Wikipedia says that UCC was founded in 1845 and the university was named Irish University of the Year by the Sunday Times on five occasions; most recently in 2017 and in 2015, UCC was also named as top performing university by the European Commission funded U-Multirank system. So not bad...
   description: | # this will include new lines to allow paragraphs  
-    I love it
+    The dotcom crash meant that graduate positions were thin on the ground the year I graduated - what better way to keep busy than get some further education...
 
 - layout: left
   name: Cork Institute of Technology
   dates: 1999 - 2003
   qualification: BEng in Electronic Engineering
   quote: >
-    Based in Cork, Ireland - an institute that boasts many top class facilities including award-winning Library & IT buildings and recognized world class laboratories
+    An institute that boasts many top class facilities including award-winning Library & IT buildings and recognized world class laboratories...
   description: | # this will include new lines to allow paragraphs
-    This is where it all began - also where I realised that I prefer software to hardware
+    This is where it all began and this was where I also realised that I possibly preferred working with software to hardware...
