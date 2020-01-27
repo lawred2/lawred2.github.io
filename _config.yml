@@ -23,9 +23,11 @@ linkedin_username: davidjmlawrence
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I'm Dave and I'm a principal full stack engineer - primarily asp.net but with a healthy spread of javascript, html, sql, nodejs...
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Currently team lead of a dedicated software automation group focused on delivering test and process automation tools for a fintech organisation
+
+  I am most skilled in: <mark>C#</mark>, <mark>web development</mark> and <mark>javascript</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -39,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in platform and software engineering some of my other interests and hobbies are:
    - Rock climbing
    - Gaming
    - Knitting
