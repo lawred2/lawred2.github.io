@@ -2,13 +2,25 @@
   name: NUI Galway
   dates: 2006 - 2008
   qualification: MSc Software and Information Systems
+  quote: >
+    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
 
 - layout: left
   name: University College Cork
   dates: 2003 - 2004
   qualification: HDip in Software Engineering
+  quote: >
+    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs  
 
 - layout: left
   name: Cork Institute of Technology
   dates: 1999 - 2003
   qualification: BEng in Electronic Engineering
+  quote: >
+    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+
+
+    
