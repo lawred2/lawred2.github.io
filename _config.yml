@@ -23,11 +23,11 @@ linkedin_username: davidjmlawrence
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Dave and I'm a principal full stack engineer - primarily asp.net but with a healthy spread of javascript, html, sql, nodejs...
+  Hi, I'm Dave and I'm a principal full stack engineer - primarily asp.net but with a healthy spread of javascript, html, sql, nodejs... Currently team lead of a dedicated software automation group focused on delivering test and process automation solutions for a fintech organisation
 
-  Currently team lead of a dedicated software automation group focused on delivering test and process automation tools for a fintech organisation
+  I am most skilled in: <mark>C#</mark> and <mark>platform development</mark>
 
-  I am most skilled in: <mark>C#</mark>, <mark>web development</mark> and <mark>javascript</mark>
+  Lately I've been dabbling in: <mark>cloudflare workers</mark>
 
 # Projects Section
 # projects_title: Projects
