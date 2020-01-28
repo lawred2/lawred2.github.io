@@ -23,9 +23,9 @@ linkedin_username: davidjmlawrence
 # about_title: About Me
 about_profile_image: images/4548982.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Dave; a principal full stack engineer based in Dublin - primarily with <mark>.net (core)(</mark> but with a healthy spread of javascript, html, sql, and nodejs... Currently the team lead of a dedicated software automation group focused on delivering test and process automation solutions for a fintech organisation
+  Hi, I'm Dave; a principal full stack engineer based in Dublin - primarily with <mark>.net (core)</mark> but with a healthy spread of javascript, html, sql, and nodejs... Currently the team lead of a dedicated software automation group focused on delivering test and process automation solutions for a fintech organisation
 
-  I would consiser myself most skilled in: <mark>C#</mark> and <mark>react</mark> and lately I've also been working a lot with: <mark>cloudflare workers</mark> 
+  I would consiser myself most skilled in: <mark>C#</mark> with <mark>asp.net</mark> and lately I've also been working a lot with: <mark>reactjs</mark> and <mark>cloudflare workers</mark> 
 
 # Projects Section
 # projects_title: Projects
