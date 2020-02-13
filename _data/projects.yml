@@ -1,7 +1,14 @@
 - layout: top-middle
-  name: Cloudflare Api Cache
+  name: Api Caching in Cloudflare
   quote: >
     Cloudflare workers as a custom caching middleware for an enterprise api
   description: | # this will include new lines to allow paragraphs
-    Developed and deployed Cloudflare worker scripts which made use of Cloudflare's caching api to provide for serving cached api responses from the CF edge. Delivered immediate benefits to the organisation in terms of response times, user experience and outright scalability. Also resulted in significant savings in bandwith utilisation at the origin.
+    Deployed a Cloudflare worker which uses Cloudflare's caching api to serve cached api responses from the edge. Delivered immediate and tangible benefits to the organisation in terms of response times, user experience and outright scalability. Also resulted in significant savings in bandwidth utilisation at the origin
+
+- layout: top-middle
+  name: User filtering in Cloudflare
+  quote: >
+    Cloudflare workers as a custom filter for unknown user login attempts
+  description: | # this will include new lines to allow paragraphs
+    Deployed a Cloudflare worker to check user logins against a maintained list of known users (stored in a CF KV namespace). Any unknown user login attempts are rejected immediately from the edge. Helps to protect against brute force & DDOS login attacks
 
