@@ -1,5 +1,5 @@
 - layout: top-middle
-  name: API Caching in Cloudflare
+  name: Api response caching in Cloudflare
   quote: >
     Cloudflare worker as caching middleware for enterprise api
   description: | # this will include new lines to allow paragraphs
