@@ -1,6 +1,6 @@
 - layout: left
   company: GBE Technologies (gbet)
-  link: www.gbetechnologies.com/
+  link: www.gbetechnologies.com
   job_title: Principal Software Engineer (test and process automation)
   dates: April 2009 - Present
   quote: >
@@ -10,10 +10,10 @@
 
 - layout: left
   company: EMC Corporation (now Dell EMC)
-  link: https://www.delltechnologies.com/
+  link: www.delltechnologies.com
   job_title: Supplier Quality Engineer (disk firmware)
   dates: June 2004 - April 2009
   quote: >
     World class enterprise storage solutions - provider of both hardware and software services to some of the world's largest enterprises
   description: | # this will include new lines to allow paragraphs
-    Supplier quality engineer responsible for designing and commissioning automated frameworks for testing the integration of third party disk drives within EMC's enterprise class storage arrays
+    Responsible for designing and commissioning automated frameworks for testing the integration of third party disk drives within EMC's enterprise class storage arrays
