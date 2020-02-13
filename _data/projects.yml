@@ -1,7 +1,7 @@
 - layout: top-middle
-  name: Api response caching in Cloudflare
+  name: Cloudflare Api Cache
   quote: >
-    Cloudflare worker as caching middleware for enterprise api
+    Cloudflare workers as a custom caching middleware for an enterprise api
   description: | # this will include new lines to allow paragraphs
-    Used Cloudflare workers and Cloudflare's caching api to provide for serving cached api responses from the CF edge. Delivered immediate benefits to the organisation in terms of response times, user experience and outright scalability. Also resulted in significant savings in bandwith utilisation at the origin.
+    Developed and deployed Cloudflare worker scripts which made use of Cloudflare's caching api to provide for serving cached api responses from the CF edge. Delivered immediate benefits to the organisation in terms of response times, user experience and outright scalability. Also resulted in significant savings in bandwith utilisation at the origin.
 
