@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: dave lawrence
+#name: dave lawrence
 title: principal software engineer
 email: info@davidlawrence.eu
 website: www.davidlawrence.eu
