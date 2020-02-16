@@ -3,8 +3,8 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: principal software engineer
-#title: principal software engineer
+#name: david lawrence
+title: principal software engineer
 email: info@davidlawrence.eu
 website: www.davidlawrence.eu
 # Social links
@@ -21,7 +21,7 @@ linkedin_username: davidjmlawrence
 
 # About Section
 # about_title: About Me
-about_profile_image: images/4548982.jpg
+about_profile_image: images/logo.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Dave; a principal full stack engineer based in Dublin - primarily with <mark>.net/.net core</mark> but with a healthy spread of javascript, html, sql, and nodejs... Currently the team lead of a dedicated software automation group focused on delivering test and process automation solutions for a fintech organisation
 
