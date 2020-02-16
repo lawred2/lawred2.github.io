@@ -3,7 +3,7 @@
   quote: >
     Cloudflare workers as a custom caching middleware for an enterprise api
   description: | # this will include new lines to allow paragraphs
-    Deployed a Cloudflare worker which uses Cloudflare's caching api to serve cached api responses from the edge. Delivered immediate and tangible benefits to the organisation in terms of response times, user experience and outright scalability. Also resulted in significant savings in bandwidth utilisation at the origin
+    Utilised Cloudflare workers and Cloudflare's caching api to cache typically uncacheable POST HTTP api responses and serve them to calling clients from the edge directly. Delivered immediate and tangible benefits to the organisation in terms of response times, user experience and outright scalability. Also resulted in significant savings in bandwidth utilisation at the origin
 
 - layout: top-middle
   name: User filtering in Cloudflare
