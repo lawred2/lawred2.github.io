@@ -25,7 +25,7 @@ about_profile_image: images/logo.png
 about_content: | # this will include new lines to allow paragraphs
   A principal full stack engineer based in Dublin - primarily with <mark>.net/.net core</mark> but with a healthy spread of javascript, html, sql, and nodejs... Currently the team lead of a dedicated software automation group focused on delivering test and process automation solutions for a fintech organisation
 
-  I would consider myself most skilled in: <mark>C#</mark> with <mark>asp.net</mark> and lately I've also been working a lot with: <mark>react (both native and browser) </mark> and <mark>cloudflare workers</mark> 
+  I would consider myself most skilled in: <mark>C#</mark> with <mark>asp.net</mark> and lately I've also been working a lot with: <mark>react (both native and browser)</mark> and <mark>cloudflare workers</mark> 
 
 # Projects Section
 # projects_title: Projects
