@@ -1,8 +1,18 @@
 - layout: left
   company: GBE Technologies (gbet)
   link: www.gbetechnologies.com
+  job_title: Solutions Architect
+  dates: July 2021 - Present
+  quote: >
+    gbet is an omni-channel B2B technology provider to the betting industry, offering a proven betting platform, plus sportsbook, exchange and ADW/Tote products. gbet offers a fully proprietary, scalable solution with the flexibility to integrate 3rd party content quickly and efficiently, with the option to outsource risk management and operational oversight.
+  description: | # this will include new lines to allow paragraphs
+    Solutions Architect for a key client. Responsible for designing and delivering technical solutions for complex business needs
+
+- layout: left
+  company: GBE Technologies (gbet)
+  link: www.gbetechnologies.com
   job_title: Principal Software Engineer (test and process automation)
-  dates: April 2009 - Present
+  dates: April 2009 - July 2021
   quote: >
     gbet is an omni-channel B2B technology provider to the betting industry, offering a proven betting platform, plus sportsbook, exchange and ADW/Tote products. gbet offers a fully proprietary, scalable solution with the flexibility to integrate 3rd party content quickly and efficiently, with the option to outsource risk management and operational oversight.
   description: | # this will include new lines to allow paragraphs
